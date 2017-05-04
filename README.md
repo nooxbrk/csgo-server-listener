@@ -1,2 +1,4 @@
 # csgo-server-listener
-Live Match Statistics of one or multiple running Matches on vanilla/sourcemod servers. 
+ - Live Match Statistics 
+ - multiple Servers at the same time
+ - heatmaps/playerstatistics as pictures for livestreams
